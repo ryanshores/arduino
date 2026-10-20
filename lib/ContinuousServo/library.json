@@ -1,0 +1,8 @@
+{
+  "name": "ContinuousServo",
+  "version": "0.1.0",
+  "description": "Percentage speed control for continuous rotation servos.",
+  "frameworks": "arduino",
+  "platforms": "atmelavr",
+  "dependencies": { "arduino-libraries/Servo": "^1.3.0" }
+}
